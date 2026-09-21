@@ -31,8 +31,8 @@ Each repo includes **README + images + explanations** so you can see the design 
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 Email: your-email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedriyas11/)  
+- 📧 Email: riyassadiq11@gmail.com  
 
 ---
 
